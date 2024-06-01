@@ -89,7 +89,7 @@ const Header: React.FC<HeaderProps> = ({
                         bg-transparent
                         text-neutral-300
                         font-medium">
-                      Sign Up  
+                      Sign Up
                     </Button>
                 </div>
                 <div>
